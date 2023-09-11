@@ -1,3 +1,3 @@
 # ml_hw
 
-## maxhine learning homework
+# machine learning homework
